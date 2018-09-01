@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Toni's Blog
 
 You can use the [editor on GitHub](https://github.com/toniblogs/toniblogs.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
