@@ -1,8 +1,8 @@
 ## Welcome to Toni's Blog
+This blog is about squshies and japan. I hope you injoy this blog
 
-You can use the [editor on GitHub](https://github.com/toniblogs/toniblogs.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+By the way this is a review on squshies like ibloom kibru and more 
+For Japan we will be looking at cute things like realakuma, irakuma and gudetama
 
 ### Markdown
 
